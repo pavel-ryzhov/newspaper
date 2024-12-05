@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     "crispy_bootstrap4",
 
     "users",
-    "pages",
+    # "pages",
     "articles"
 ]
 
